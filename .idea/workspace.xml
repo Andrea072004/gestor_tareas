@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="462c07b5-cd4d-47f1-b1e6-b64170597fd8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/gestor_tareas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_gestor_tareas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
